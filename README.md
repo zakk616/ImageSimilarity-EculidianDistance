@@ -1,2 +1,1 @@
 # ImageSimilarity-EculidianDistance
-Own Dataset 
